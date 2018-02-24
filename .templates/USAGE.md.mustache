@@ -1,0 +1,15 @@
+```javascript
+
+
+const {JsonSerializer} = require('@pigalle/serializers.simple-json')
+
+// Create a new {JsonSerializer}
+const jsonSerializer = JsonSerializer.factory()
+
+// Serialize an object
+const s = jsonSerializer.serialize({name: 'chicken'}) // returns a {string} equal to {"name": "chicken"}
+
+// Unserialize a string.
+const o = jsonSerializer.unserialize(s) // returns an {object} equal to {name: 'chicken'}
+
+```
