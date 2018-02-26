@@ -1,6 +1,6 @@
 {
   "name": "@pigalle/serializers.simple-json",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A JSON serializer for the Pigalle framework.",
   "main": "lib/simple-json-serializer.js",
   "scripts": {
