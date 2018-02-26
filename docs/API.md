@@ -105,6 +105,6 @@ Unerialize the provided {string}.
 
 ***
 
-_Documentation generated on Sat, 24 Feb 2018 10:11:12 GMT_
+_Documentation generated on Mon, 26 Feb 2018 13:41:29 GMT_
 
 **Copyright &copy; 2018 [SAS 9 Février](https://9fevrier.com/)**
