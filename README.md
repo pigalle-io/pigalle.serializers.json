@@ -1,7 +1,7 @@
-[npm-badge]: https://img.shields.io/npm/v/@pigalle/serializers.json.svg
-[npm-badge-url]: https://www.npmjs.com/package/@pigalle/serializers.json
-[npm-downloads-badge]: https://img.shields.io/npm/dt/@pigalle/serializers.json.svg
-[npm-downloads-url]: https://npmjs.org/package/@pigalle/serializers.json
+[npm-badge]: https://img.shields.io/npm/v/@pigalle/serializers.simple-json.svg
+[npm-badge-url]: https://www.npmjs.com/package/@pigalle/serializers.simple-json
+[npm-downloads-badge]: https://img.shields.io/npm/dt/@pigalle/serializers.simple-json.svg
+[npm-downloads-url]: https://npmjs.org/package/@pigalle/serializers.simple-json
 [travis-badge]: https://img.shields.io/travis/pigalle-io/pigalle.serializers.simple-json/master.svg?label=TravisCI
 [travis-badge-url]: https://travis-ci.org/pigalle-io/pigalle.serializers.simple-json
 [circle-badge]: https://circleci.com/gh/pigalle-io/pigalle.serializers.simple-json/tree/master.svg?style=svg&circle-token=
@@ -12,7 +12,7 @@
 [codeclimate-badge-url]: https://codeclimate.com/github/pigalle-io/pigalle.serializers.simple-json
 [ember-observer-badge]: http://emberobserver.com/badges/pigalle.serializers.simple-json.svg
 [ember-observer-badge-url]: http://emberobserver.com/addons/pigalle.serializers.simple-json
-[license-badge]: https://img.shields.io/npm/l/@pigalle/serializers.json.svg
+[license-badge]: https://img.shields.io/npm/l/@pigalle/serializers.simple-json.svg
 [license-badge-url]: LICENSE.md
 [dependencies-badge]: https://img.shields.io/david/pigalle-io/pigalle.serializers.simple-json.svg
 [dependencies-badge-url]: https://david-dm.org/pigalle-io/pigalle.serializers.simple-json
@@ -88,7 +88,7 @@ const o = jsonSerializer.unserialize(s) // returns an {object} equal to {name: '
 
 ## <a name="installation"> Installation
 
-    npm install @pigalle/serializers.json
+    npm install @pigalle/serializers.simple-json
 
 ## <a name="api-reference"> API Reference
 
