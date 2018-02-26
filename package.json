@@ -1,8 +1,8 @@
 {
   "name": "@pigalle/serializers.json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A JSON serializer for the Pigalle framework.",
-  "main": "lib/index.js",
+  "main": "lib/simple-json-serializer.js",
   "scripts": {
     "test": "nyc mocha",
     "lint": "node ./node_modules/standard/bin/cmd.js --fix",
